@@ -11,5 +11,7 @@ Does not have any priority order.
 - [ ] Possibility to delete history.
 - [ ] Do not repeat the history if the last was the same.
 - [ ] Allow Post-Script 
+- [ ] Fix Package Structure
+- [ ] Change UI technology (Perhaps...)
 
 ...
